@@ -1,0 +1,12 @@
+diff --git a/style.css b/style.css
+new file mode 100644
+index 0000000..373efec
+--- /dev/null
++++ b/style.css
+@@ -0,0 +1,5 @@
++body {
++	color: #000;
++	line-height: 24px;
++	background-color: #fff;
++}
+\ No newline at end of file
